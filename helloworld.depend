@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532609591 source:f:\c\m\helloworld\helloworld.cpp
+	<iostream>
+
+1532677220 source:f:\c\m\helloworld\circle.c
+
+1532677847 source:f:\c\m\helloworld\circle.cpp
+	<iostream>
+	<cmath>
+
